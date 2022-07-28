@@ -1,2 +1,7 @@
 data/
 week1/.ipynb_checkpoints/
+week2/.ipynb_checkpoints/week2_multiTask_Bandit_final-checkpoint.ipynb
+.ipynb_checkpoints/.gitignore-checkpoint
+week2/trainDF.pkl
+yahoo_data/data1.txt
+yahoo_data/.data1.txt.swp
